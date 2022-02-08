@@ -1,4 +1,4 @@
-### Hello, I, Lavansh 👋
+### Hello, I'm Lavansh Arora👋
 
 <!--
 **Lavansh1810/Lavansh1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
