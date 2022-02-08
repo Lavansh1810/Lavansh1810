@@ -9,8 +9,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lavansh-arora-240052200#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lavansh-arora-240052200/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/aroralavit#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/aroralavit#gh-dark-mode-only)
+[![website](https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1644316715~hmac=7784bf30f5c418982c151fba8d5270ea)](https://www.instagram.com/aroralavit#gh-light-mode-only)
 <!--
 **Lavansh1810/Lavansh1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
