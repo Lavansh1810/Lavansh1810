@@ -4,8 +4,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](https://png.pngtree.com/element_our/sm/20180626/sm_5b32227ca3eb9.jpg)](https://twitter.com/AroraLavansh#gh-light-mode-only)
-[![website](https://png.pngtree.com/element_our/sm/20180626/sm_5b32227ca3eb9.jpg)](https://twitter.com/AroraLavansh#gh-dark-mode-only)
+[![website](https://cdn-icons-png.flaticon.com/128/2111/2111819.png)](https://twitter.com/AroraLavansh#gh-light-mode-only)
+[![website](https://cdn-icons-png.flaticon.com/128/2111/2111819.png)](https://twitter.com/AroraLavansh#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lavansh-arora-240052200#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lavansh-arora-240052200/#gh-dark-mode-only)
