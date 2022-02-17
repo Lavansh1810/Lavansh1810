@@ -1,4 +1,4 @@
-<img width="100%" src="https://en.bloggif.com/tmp/ed02d58e156a365a1cc54033c8d859cf/text.gif?1644317691">
+<img width="100%" src="https://github.com/Lavansh1810/Lavansh1810/blob/main/Lavansh%20Arora.gif">
 
 <h1 align="center"> Hello, I'm Lavansh Arora👋 </h1>
 
