@@ -9,7 +9,6 @@ I'm **Lavansh Arora**, currently in my final year of engineering studies, and I 
 ## About Me
 
 - 🌍 Location: Amroha, Uttar Pradesh
-- 😄 Pronouns: He/Him
 
 ## My Interests
 
