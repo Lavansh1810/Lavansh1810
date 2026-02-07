@@ -3,7 +3,7 @@
 
 # Greetings 👋!
 
-I'm **Lavansh Arora**, currently in my final year of engineering studies, and I have a strong passion for continuous learning. Welcome to my GitHub profile!
+I’m **Lavansh Arora**, an Associate Data Scientist at ServiceNow, focused on building scalable data pipelines, automation, and intelligent systems that drive real business impact.
 
 ---
 ## About Me
@@ -15,35 +15,31 @@ I'm **Lavansh Arora**, currently in my final year of engineering studies, and I 
 - 💻 Computer Science and Programming
 - 💡 Problem Solving
 - 🎵 Music
-- 🍿 Movies
 
 ## Work Experience
 
-### Associate Data Analyst Intern - [@ServiceNow](https://www.servicenow.com/)
-*May 2023 - July 2023* 
-Hyderabad, India
+### Associate Data Scientist – [ServiceNow](https://www.servicenow.com/)  
+*Aug 2024 – Present*  
+Hyderabad, India  
 
-- Designed and developed user-friendly dashboards using Power BI, enhancing data visualization and accessibility.
-- Assisted in creating insightful reports, providing valuable insights to support data-driven decision-making.
-- Leveraged Snowflake, a cutting-edge cloud data platform, for data collection and modeling tasks.
-- Contact: Anik Dasgupta (Senior Manager, Data & Analytics) - [Email](mailto:anik.dasgupta@servicenow.com)
+- **Competitor Presence & Account Metrics:** Built logic to detect competitor mentions and surface key account metrics, providing early win/loss indicators and actionable sales insights.  
+- **ServiceNow UI Builder Dashboards:** Designing and developing interactive internal dashboards using ServiceNow UI Builder, handling data preparation, performance optimization, and secure end-to-end implementation.
 
+---
 
-### Django Developer Intern - [@Futurestic](https://www.futurestic.co.in/)
-*July 2022 - August 2022* 
-New Delhi, India
+### Associate Data Analyst Intern – [ServiceNow](https://www.servicenow.com/)  
+*Jan 2024 – Jul 2024*  
+Hyderabad, India  
 
-- Successfully completed many projects using Django Framework.
-- Worked independently to design, develop, and test code.
-- Contact: Mr. Jaskirat Singh - [Email](mailto:jaskirat@futurestic.co.in)
-- Twitter: [@Futurestic](https://github.com/ServiceNow)
+- **Employee Onboarding Automation:** Automated end-to-end onboarding by triggering welcome emails, managing consent workflows, and provisioning Active Directory access using Python-based automation.
+- **Account Notes Intelligence:** Built a Python + SQL pipeline to extract high-signal insights from large volumes of account notes, enabling real-time visibility into account activity.
 
 
 ## Tech Stack
 
 Here are some of the technologies and tools I have worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,django,react,html,css,js,bootstrap,tailwind,mysql,postgres,postman,vscode,github,discord,linkedin,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,django,html,css,js,bootstrap,tailwind,mysql,postman,vscode,github,discord,linkedin&perline=6)](https://skillicons.dev)
 
 
 ## Let's Connect
