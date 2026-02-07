@@ -25,7 +25,6 @@ Hyderabad, India
 - **Competitor Presence & Account Metrics:** Built logic to detect competitor mentions and surface key account metrics, providing early win/loss indicators and actionable sales insights.  
 - **ServiceNow UI Builder Dashboards:** Designing and developing interactive internal dashboards using ServiceNow UI Builder, handling data preparation, performance optimization, and secure end-to-end implementation.
 
----
 
 ### Associate Data Analyst Intern – [ServiceNow](https://www.servicenow.com/)  
 *Jan 2024 – Jul 2024*  
