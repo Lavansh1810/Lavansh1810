@@ -1,10 +1,15 @@
-<img align="left" width="150" height="150" alt="Lavansh Arora" src="https://sdk.bitmoji.com/render/panel/20084243-99313881793_2-s5-v1.png?transparent=1&palette=1&scale=2"/>
+<table>
+  <tr>
+    <td width="170" align="center" valign="middle">
+      <img width="150" height="150" alt="Lavansh Arora" src="https://sdk.bitmoji.com/render/panel/20084243-99313881793_2-s5-v1.png?transparent=1&palette=1&scale=2"/>
+    </td>
+    <td valign="middle">
+      <h1>Greetings 👋!</h1>
+      I'm <b>Lavansh Arora</b>, a <b>Data Scientist at ServiceNow</b> with 2+ years of experience building production <b>LLM pipelines</b>, incremental data pipelines, and automation on <b>Snowflake</b>. I turn large volumes of unstructured enterprise data into decision-ready intelligence for sales, customer success, and executive teams.
+    </td>
+  </tr>
+</table>
 
-# Greetings 👋!
-
-I'm **Lavansh Arora**, a **Data Scientist at ServiceNow** with 2+ years of experience building production **LLM pipelines**, incremental data pipelines, and automation on **Snowflake**. I turn large volumes of unstructured enterprise data into decision-ready intelligence for sales, customer success, and executive teams.
-
-<br clear="left"/>
 
 ---
 
